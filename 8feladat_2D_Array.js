@@ -19,4 +19,6 @@ const array2D = (n, m) => {
 // const arg1 = readline.keyInSelect('Kérem a tömb egyik méretét: ');
 // const arg2 = readline.keyInSelect('Kérem a tömb másik méretét: ');
 
+// console.log(array2D(arg1, arg2));
+
 console.log(array2D(3, 3));
